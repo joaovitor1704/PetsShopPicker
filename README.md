@@ -7,13 +7,13 @@
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 
 
-## ✔  [Descrição do Projeto](#descrição-do-projeto)
+# ✔  [Descrição do Projeto](#descrição-do-projeto)
 O sistema oferece ao usuário a seleção do petshop mais adequado para levar seu cachorro, considerando a escolha da data e a quantidade de cães grandes e pequenos. A determinação do melhor petshop é baseada no preço total para o usuário, e se houver empate de preços entre petshops, será selecionado aquele mais próximo do cliente.
 Ao iniciar a aplicação, o usuário terá três campos para preencher, um de data, um para a quantidade de cachorros grandes e outro para pequenos. Após o preenchimento, o usuário deve clicar no botão "Buscar" e ele será direcionado para outra página, onde será apresentado a ele o petshop escolhido e o valor que deverá ser gasto.
 Optei por utilizar React para o desenvolvimento do frontend e .NET para o backend, pois são tecnologias amplamente reconhecidas e recomendadas. Além disso, dediquei tempo ao estudo dessas tecnologias e estou buscando aprimorar minhas habilidades nesse contexto específico.
 Para construir o backend, optei por adotar a abordagem baseada em interfaces. Isso se justifica pelo fato de que uma mesma função pode ser implementada de maneiras diversas. Além disso, ao adicionar novas funcionalidades no futuro, o uso de interfaces facilita a extensão e a manutenção do código, proporcionando uma estrutura mais flexível e adaptável.
 
-### 🎲 [Acesso ao Projeto](#Acesso-ao-Projeto)
+# 🎲 [Acesso ao Projeto](#Acesso-ao-Projeto)
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [.Net 8.0](https://dotnet.microsoft.com/pt-br/download/dotnet/8.0), [Node.js](https://nodejs.org/en/). 
 Recomenda-se utilizar o [visual studio](https://visualstudio.microsoft.com/pt-br/downloads/) para editar o código do backend.
@@ -36,6 +36,6 @@ $ npm start
 ```
 Para executar o backend, abra o projeto no visual studio e aperte as teclas ctrl+F5. A aplicação inciará na porta:7021
 
-## 🛠  [Tecnologias utilizadas](#Tecnologias-utilizadas)
+# 🛠  [Tecnologias utilizadas](#Tecnologias-utilizadas)
 - ``React``
 - ``.Net 8.0``
