@@ -1,4 +1,4 @@
-<h1 align="center"> Teste Prático DTI Digital </h1>
+<h1 align="center"> PetShop Picker </h1>
 
 # Índice 
 * [Índice](#índice)
