@@ -18,7 +18,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 Recomenda-se utilizar o [visual studio](https://visualstudio.microsoft.com/pt-br/downloads/) para editar o código do backend.
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/joaovitor1704/TestePratico_dti>
+$ git clone <https://github.com/joaovitor1704/PetShopPicker>
 
 ## É necessário rodar o frontend e backend ao mesmo tempo para a aplicação funcionar. Para iniciar o frontend:
 # Acesse a pasta do projeto no terminal/cmd
